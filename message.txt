@@ -1,2 +1,2 @@
-Change from main
-Change from feature branch
+Message from main branch
+Message from feature branch
